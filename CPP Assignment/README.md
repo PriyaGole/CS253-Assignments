@@ -2,8 +2,8 @@
 
 To run the code in termainal: 
 * Go to the code directory.
-* Compile: $ g++ LibraryManagementSystem.cpp -o LibraryManagementSystem.exe
-* Run the executable: $ LibraryManagementSystem.exe
+* Compile: ``` $ g++ LibraryManagementSystem.cpp -o LibraryManagementSystem.exe ```
+* Run the executable: ``` $ LibraryManagementSystem.exe ```
 
 To run the code in IDE:
 * Open any IDE which you use.
