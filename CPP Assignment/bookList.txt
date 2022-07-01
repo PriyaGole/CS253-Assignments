@@ -1,0 +1,4 @@
+Client Server Computing,Lalit Kumar,978-93-8067-432-2,Sun India Publications,not_issued,NA,NA
+Data Structure Using C,Sharad Kumar Verma,978-93-5163-389-1,Thakur Publications,not_issued,NA,NA
+Trends in English Literature,Salinder Ranga,978-93-86695-33-8,Aryan Publication,priyaa,student,07/04/2022
+Ordinary Differential Equations,Dr. Deepjyoti Kalita,978-93-89474-49-7,Surya Prakash Publications,manasg,professor,07/04/2022
